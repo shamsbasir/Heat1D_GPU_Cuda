@@ -1,8 +1,4 @@
-/***********************************************************************
- * you are given a partially completed code. Read the code line by line
- * and implement the necessary steps to compute the 1d heat conduction
- * problem given in the handout.
- *
+/*
  ***********************************************************************
  *
  * Numerical and analytical solution of the 1D heat conduction problem
